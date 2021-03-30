@@ -1,0 +1,483 @@
+# depslib dependency file v1.0
+1557029080 source:d:\user\roli\prog\chess\board.cpp
+	"board.h"
+
+1557029080 d:\user\roli\prog\chess\board.h
+	"common.h"
+	"field.h"
+
+1557029080 d:\user\roli\prog\chess\common.h
+	<iostream>
+
+1557063379 d:\user\roli\prog\chess\field.h
+	"common.h"
+	<stdlib.h>
+	<vector>
+
+1557063379 source:d:\user\roli\prog\chess\field.cpp
+	"field.h"
+	<iostream>
+	"figure.h"
+
+1557066580 d:\user\roli\prog\chess\figure.h
+	<vector>
+	"common.h"
+	"field.h"
+
+1557070962 source:d:\user\roli\prog\chess\figure.cpp
+	"figure.h"
+	"field.h"
+	<iostream>
+	<algorithm>
+	"board.h"
+
+1557070587 source:d:\user\roli\prog\chess\main.cpp
+	<iostream>
+	"chess.h"
+	"common.h"
+
+1557066956 d:\user\roli\prog\chess\chess.h
+	"board.h"
+	"figure.h"
+
+1557070313 source:d:\user\roli\prog\chess\chess.cpp
+	"chess.h"
+	"figure.h"
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<algorithm>
+
+1557385845 source:c:\users\roland\prog\2019 chess\bestchess\board.cpp
+	"board.h"
+
+1557386384 c:\users\roland\prog\2019 chess\bestchess\board.h
+	"common.h"
+	"field.h"
+
+1557074714 c:\users\roland\prog\2019 chess\bestchess\common.h
+	<iostream>
+
+1557074716 c:\users\roland\prog\2019 chess\bestchess\field.h
+	"common.h"
+	<stdlib.h>
+	<vector>
+
+1557458791 source:c:\users\roland\prog\2019 chess\bestchess\chess.cpp
+	"chess.h"
+	"figure.h"
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<algorithm>
+
+1557373496 c:\users\roland\prog\2019 chess\bestchess\chess.h
+	"board.h"
+	"figure.h"
+
+1557368127 c:\users\roland\prog\2019 chess\bestchess\figure.h
+	<vector>
+	"common.h"
+	"field.h"
+
+1557074714 source:c:\users\roland\prog\2019 chess\bestchess\field.cpp
+	"field.h"
+	<iostream>
+	"figure.h"
+
+1557458816 source:c:\users\roland\prog\2019 chess\bestchess\figure.cpp
+	"figure.h"
+	"field.h"
+	<iostream>
+	<algorithm>
+	"board.h"
+
+1557438110 source:c:\users\roland\prog\2019 chess\bestchess\main.cpp
+	<iostream>
+	"chess.h"
+	"common.h"
+	"memtrace.h"
+
+1557437776 source:c:\users\roland\prog\2019 chess\bestchess\memtrance.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1557438110 c:\users\roland\prog\2019 chess\bestchess\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+
+1557438110 source:c:\users\roland\prog\2019 chess\bestchess\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1557424744 source:d:\user\roli\prog\bestchess\board.cpp
+	"board.h"
+
+1557424744 d:\user\roli\prog\bestchess\board.h
+	"common.h"
+	"field.h"
+
+1557427183 d:\user\roli\prog\bestchess\common.h
+	<iostream>
+
+1557386840 d:\user\roli\prog\bestchess\field.h
+	"common.h"
+	<stdlib.h>
+	<vector>
+
+1557428012 source:d:\user\roli\prog\bestchess\chess.cpp
+	"chess.h"
+	"figure.h"
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<algorithm>
+
+1557386838 d:\user\roli\prog\bestchess\chess.h
+	"board.h"
+	"figure.h"
+
+1557386840 d:\user\roli\prog\bestchess\figure.h
+	<vector>
+	"common.h"
+	"field.h"
+
+1557386838 source:d:\user\roli\prog\bestchess\field.cpp
+	"field.h"
+	<iostream>
+	"figure.h"
+
+1557428130 source:d:\user\roli\prog\bestchess\figure.cpp
+	"figure.h"
+	"field.h"
+	<iostream>
+	<algorithm>
+	"board.h"
+	<conio.h>
+
+1557427862 source:d:\user\roli\prog\bestchess\main.cpp
+	<iostream>
+	"chess.h"
+	"common.h"
+	"memtrace.h"
+
+1557386842 d:\user\roli\prog\bestchess\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+
+1557422669 source:d:\user\roli\prog\bestchess\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1557487823 source:c:\users\141021\prog2\bestchess-20190510t101653z-001\bestchess\board.cpp
+	"board.h"
+	"memtrace.h"
+
+1557488889 c:\users\141021\prog2\bestchess-20190510t101653z-001\bestchess\board.h
+	"common.h"
+	"field.h"
+
+1557490295 c:\users\141021\prog2\bestchess-20190510t101653z-001\bestchess\common.h
+	<iostream>
+
+1557488890 c:\users\141021\prog2\bestchess-20190510t101653z-001\bestchess\field.h
+	"common.h"
+	<stdlib.h>
+	<vector>
+
+1557489312 source:c:\users\141021\prog2\bestchess-20190510t101653z-001\bestchess\chess.cpp
+	"chess.h"
+	"figure.h"
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<algorithm>
+	"memtrace.h"
+
+1557488889 c:\users\141021\prog2\bestchess-20190510t101653z-001\bestchess\chess.h
+	"board.h"
+	"figure.h"
+
+1557489584 c:\users\141021\prog2\bestchess-20190510t101653z-001\bestchess\figure.h
+	<vector>
+	"common.h"
+	"field.h"
+
+1557487823 source:c:\users\141021\prog2\bestchess-20190510t101653z-001\bestchess\field.cpp
+	"field.h"
+	<iostream>
+	"figure.h"
+	"memtrace.h"
+
+1557488889 source:c:\users\141021\prog2\bestchess-20190510t101653z-001\bestchess\figure.cpp
+	"figure.h"
+	"field.h"
+	<iostream>
+	<algorithm>
+	"board.h"
+	<conio.h>
+	"memtrace.h"
+
+1557487077 source:c:\users\141021\prog2\bestchess-20190510t101653z-001\bestchess\main.cpp
+	<iostream>
+	"chess.h"
+	"common.h"
+	"memtrace.h"
+
+1557487077 c:\users\141021\prog2\bestchess-20190510t101653z-001\bestchess\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+
+1557487077 source:c:\users\141021\prog2\bestchess-20190510t101653z-001\bestchess\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1557739569 source:c:\users\roland\prog\2019 chess\bestchess\bestchess\board.cpp
+	"board.h"
+
+1557737965 c:\users\roland\prog\2019 chess\bestchess\bestchess\board.h
+	"figure.h"
+
+1557738984 c:\users\roland\prog\2019 chess\bestchess\bestchess\common.h
+	<iostream>
+	<conio.h>
+
+1557491128 c:\users\roland\prog\2019 chess\bestchess\bestchess\field.h
+	"common.h"
+	<stdlib.h>
+	<vector>
+
+1557622168 c:\users\roland\prog\2019 chess\bestchess\bestchess\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+
+1557739569 source:c:\users\roland\prog\2019 chess\bestchess\bestchess\chess.cpp
+	"chess.h"
+	"figure.h"
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<algorithm>
+
+1557737965 c:\users\roland\prog\2019 chess\bestchess\bestchess\chess.h
+	"board.h"
+
+1557737062 c:\users\roland\prog\2019 chess\bestchess\bestchess\figure.h
+	<vector>
+	"field.h"
+
+1557739568 source:c:\users\roland\prog\2019 chess\bestchess\bestchess\field.cpp
+	"field.h"
+	<iostream>
+	"figure.h"
+
+1557739568 source:c:\users\roland\prog\2019 chess\bestchess\bestchess\figure.cpp
+	"figure.h"
+	"field.h"
+	<iostream>
+	<algorithm>
+	"board.h"
+
+1557739568 source:c:\users\roland\prog\2019 chess\bestchess\bestchess\main.cpp
+	<iostream>
+	"test.h"
+	"gtest_lite.h"
+
+1557622168 source:c:\users\roland\prog\2019 chess\bestchess\bestchess\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1557736297 source:c:\users\roland\prog\2019 chess\bestchess\bestchess\test.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"memtrace.h"
+	"test.h"
+
+1557737965 c:\users\roland\prog\2019 chess\bestchess\bestchess\test.h
+	"chess.h"
+
+1557540471 c:\users\roland\prog\2019 chess\bestchess\bestchess\gtest.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<string>
+	<fstream>
+	"memtrace.h"
+
+1557736722 c:\users\roland\prog\2019 chess\bestchess\bestchess\gtest_lite.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<string>
+	<fstream>
+	"memtrace.h"
+
+1557739000 source:c:\users\roland\prog\2019 chess\bestchess\bestchess\common.cpp
+	"common.h"
+	<conio.h>
+
+1557735969 source:c:\users\roland\workspace\prog\2019 chess\bestchess\bestchess\board.cpp
+	"board.h"
+
+1557734365 c:\users\roland\workspace\prog\2019 chess\bestchess\bestchess\board.h
+	"figure.h"
+
+1557733462 c:\users\roland\workspace\prog\2019 chess\bestchess\bestchess\figure.h
+	<vector>
+	"field.h"
+
+1557487528 c:\users\roland\workspace\prog\2019 chess\bestchess\bestchess\field.h
+	"common.h"
+	<stdlib.h>
+	<vector>
+
+1557735384 c:\users\roland\workspace\prog\2019 chess\bestchess\bestchess\common.h
+	<iostream>
+	<conio.h>
+
+1557735969 source:c:\users\roland\workspace\prog\2019 chess\bestchess\bestchess\chess.cpp
+	"chess.h"
+	"figure.h"
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<algorithm>
+
+1557734365 c:\users\roland\workspace\prog\2019 chess\bestchess\bestchess\chess.h
+	"board.h"
+
+1557735400 source:c:\users\roland\workspace\prog\2019 chess\bestchess\bestchess\common.cpp
+	"common.h"
+	<conio.h>
+
+1557735968 source:c:\users\roland\workspace\prog\2019 chess\bestchess\bestchess\field.cpp
+	"field.h"
+	<iostream>
+	"figure.h"
+
+1557735968 source:c:\users\roland\workspace\prog\2019 chess\bestchess\bestchess\figure.cpp
+	"figure.h"
+	"field.h"
+	<iostream>
+	<algorithm>
+	"board.h"
+
+1557735968 source:c:\users\roland\workspace\prog\2019 chess\bestchess\bestchess\main.cpp
+	<iostream>
+	"test.h"
+	"gtest_lite.h"
+
+1557734365 c:\users\roland\workspace\prog\2019 chess\bestchess\bestchess\test.h
+	"chess.h"
+
+1557733122 c:\users\roland\workspace\prog\2019 chess\bestchess\bestchess\gtest_lite.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<string>
+	<fstream>
+	"memtrace.h"
+
+1557618568 c:\users\roland\workspace\prog\2019 chess\bestchess\bestchess\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+
+1557618568 source:c:\users\roland\workspace\prog\2019 chess\bestchess\bestchess\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1557732697 source:c:\users\roland\workspace\prog\2019 chess\bestchess\bestchess\test.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"memtrace.h"
+	"test.h"
+
